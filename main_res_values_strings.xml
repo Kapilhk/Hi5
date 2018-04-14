@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FreeChat</string>
+    <string name="welcome_to_free_chat">Welcome to Free Chat</string>
+    <string name="need_a_new_account">Need A new Account ?</string>
+    <string name="display_name">Display Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_out">Log Out</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="already_have_account">Already Have Account</string>
+    <string name="sign_up">Sign-up</string>
+    <string name="log_in">Log-in</string>
+    <string name="welcome">Welcome to Hi5</string>
+    <string name="welcome_to_freechat">Welcome to Freechat</string>
+    <string name="create_a_new_account">Create a New Account</string>
+    <string name="create_account">Create Account</string>
+    <string name="e_mail">E-mail</string>
+    <string name="name">Name</string>
+    <string name="send_friend_request">Send a Friend Reques</string>
+    <string name="decline_friend_request">Decline Friend Request</string>
+    <string name="current_user_status">Status</string>
+</resources>
